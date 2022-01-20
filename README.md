@@ -1,11 +1,11 @@
 # ProjectZ-
-# Pre-work - *Name of App Here*
+# Pre-work - *Z-Checker*
 
-**Name of your app** is a tip calculator application for iOS.
+**Z-Checker** is a tip calculator application for iOS.
 
-Submitted by: **Your Name Here**
+Submitted by: **Sergio Zavala**
 
-Time spent: **X** hours spent in total
+Time spent: **6** hours spent in total
 
 ## User Stories
 
@@ -27,7 +27,9 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Here's a walkthrough! of implemented user stories:
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/97925468/150278452-f270371b-a945-48f2-a418-d72735fa8ef9.gif)
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
@@ -36,10 +38,10 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
-
+Catching erros 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2022] [Sergio Zavala]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
